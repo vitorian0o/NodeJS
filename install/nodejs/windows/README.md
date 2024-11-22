@@ -17,11 +17,11 @@
 If the versions are not displayed, the installation may not have been successful. In this case:
 
 1. Check the system's **Environment Variables** under the `Path`:
-  - Ensure that the paths for the `nodejs` installation directory, `nvm`, and `npm` are present.
+    - Ensure that the paths for the `nodejs` installation directory, `nvm`, and `npm` are present.
 
 2. If these paths are missing:
-  - Add them manually.
-  - Save the changes.
-  - Close and reopen the shell.
+    - Add them manually.
+    - Save the changes.
+    - Close and reopen the shell.
 
 3. Test the commands again.
