@@ -14,7 +14,7 @@
 
 | **Aspect**          | **LTS**                                   | **Current**                                   |
 |-----------------------|-------------------------------------------|-----------------------------------------------|
-| **Foco**             | Stability and compatibility              | Latest features and innovations              |
+| **Focus**             | Stability and compatibility              | Latest features and innovations              |
 | **Target Audience**  | Enterprises, production, and critical systems | Developers interested in experimenting       |
 | **Updates**          | Critical security and bug fixes          | Frequent updates with new features           |
 | **Lifecycle**        | Maintained for 30 months after release   | Updated until the next Current release       |
