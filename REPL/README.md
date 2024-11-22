@@ -28,3 +28,8 @@ $ node
 > console.log("Hello, World!");
 Hello, World!
 >
+```
+
+### Important Note
+
+The data and code executed in the REPL environment are temporary. Once you close the terminal or restart the REPL, all previous code and results will be lost. Therefore, it is recommended to use REPL for testing small snippets of code or for learning purposes. For more persistent code and results, it's better to use a text editor or IDE to write your code in files.
