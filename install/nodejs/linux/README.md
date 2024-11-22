@@ -1,4 +1,4 @@
-# Installation Node.js - Linux (via Terminal)
+# Installation Node.js - Linux (Terminal)
 
 1. Execute the following command to install Node.js:
    ```bash
