@@ -23,6 +23,7 @@ fs.readFile('arquivo.txt', 'utf8', (err, data) => { // Syntax Sugar: Simplified 
 
     console.log(data); // Log the file content to the console
 });
+```
 
 ### Key Terms Explained:
 1. **File System**:
