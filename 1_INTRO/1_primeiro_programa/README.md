@@ -4,11 +4,11 @@ This section demonstrates the simplest program you can write in Node.js, which i
 
 ## Files in this directory
 
-- **`programa.js`**: A JavaScript file that logs "Hello world Node!" to the console.
+- **`arquivo.js`**: A JavaScript file that logs "Hello world Node!" to the console.
 
-## Explanation of `programa.js`
+## Explanation of `arquivo.js`
 
-Below is the content of the `programa.js` file:
+Below is the content of the `arquivo.js` file:
 
 ```javascript
 console.log("Hello world Node!");
@@ -36,11 +36,11 @@ console.log("Hello world Node!");
 
 1. Ensure that Node.js is installed on your machine.
 2. Open the terminal or command prompt.
-3. Navigate to the directory where `programa.js` is located.
+3. Navigate to the directory where `arquivo.js` is located.
 4. Run the following command:
 
    ```bash
-   node programa.js
+   node arquivo.js
    ```
 
 You should see the output:
